@@ -1,6 +1,7 @@
 import webob
 from webob import dec
 #1
+#2
 class Request(webob.Request):
     pass
 
